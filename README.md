@@ -1,4 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Om Dusane👋
+
+## About Me
+
+- 📚 Currently pursuing degree in Information Technolgy Engineering
+-  🖤 Like to work in Backend
+-  🛠 Currently learning Python frameworks
+
+## Technologies
+
+### Backend
+- Python
+- Flask
+- Java
+
+### Frontend
+- HTML
+- CSS
+- Bootstrap
+
+### Database
+- Sqlite
+- Postgresql
+
+### others
+- VS Code
+- Eclipse
+- Git
+
+
 
 <!--
 **omdusane/omdusane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
