@@ -16,6 +16,7 @@
 ### Frontend
 - HTML
 - CSS
+- JavaScript
 - Bootstrap
 
 ### Database
