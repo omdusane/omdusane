@@ -12,6 +12,7 @@
 - Python
 - Flask
 - Java
+- Php
 
 ### Frontend
 - HTML
@@ -22,6 +23,7 @@
 ### Database
 - Sqlite
 - Postgresql
+- MySql
 
 ### others
 - VS Code
