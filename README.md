@@ -11,6 +11,7 @@
 ### Backend
 - Python
 - Flask
+- Django
 - Java
 - Php
 
