@@ -26,7 +26,7 @@
 - Postgresql
 - MySql
 
-### others
+### Others
 - VS Code
 - Eclipse
 - Git
