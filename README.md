@@ -4,7 +4,7 @@
 
 - 📚 Currently pursuing degree in Information Technolgy Engineering
 -  🖤 Like to work in Backend
--  🛠 Currently learning Python frameworks
+-  🛠 Currently learning differnt web technologies and AI/ML
 
 ## Technologies
 
@@ -12,8 +12,8 @@
 - Python
 - Flask
 - Django
-- Java
-- Php
+- Node
+- ExpressJs
 
 ### Frontend
 - HTML
