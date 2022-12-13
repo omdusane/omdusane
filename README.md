@@ -4,7 +4,7 @@
 
 - 📚 Currently pursuing degree in Information Technolgy Engineering
 -  🖤 Like to work in Backend
--  🛠 Currently learning differnt web technologies and AI/ML
+-  🛠 Currently learning different web technologies and AI/ML
 
 ## Technologies
 
