@@ -3,8 +3,9 @@
 ## About Me
 
 - 📚 Currently pursuing degree in Information Technolgy Engineering
--  🖤 Like to work in Backend
--  🛠 Currently learning different web technologies and AI/ML
+- 🔭 Python MERN Full Stack Developer
+- 🖤 Like to work in Backend
+- 🛠 Currently learning different web technologies and AI/ML
 
 ## Technologies
 
@@ -20,6 +21,7 @@
 - CSS
 - JavaScript
 - Bootstrap
+- React
 
 ### Database
 - Sqlite
