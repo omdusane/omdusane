@@ -15,6 +15,7 @@
 - Django
 - Node
 - ExpressJs
+- TypeScript
 
 ### Frontend
 - HTML
@@ -30,7 +31,10 @@
 - MongoDb
 
 ### Others
+- Azure
+- AWS
 - VS Code
+- Postman
 - Eclipse
 - Git
 
