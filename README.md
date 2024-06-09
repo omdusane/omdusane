@@ -53,8 +53,6 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&labelColor=black&color=%230A66C2)](https://www.linkedin.com/in/om-dusane/)
 <a href="mailto:omdusane8@gmail.com">![Gmail](https://img.shields.io/badge/gmail-000000?style=for-the-badge&logo=gmail&labelColor=black&color=%23EA4335)</a>
 
-### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omdusane&layout=compact)](https://github.com/omdusane)
 
 <!--
 **omdusane/omdusane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
